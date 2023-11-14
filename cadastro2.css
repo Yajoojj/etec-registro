@@ -1,0 +1,30 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    
+  }
+
+  body {
+    background-color: #000;
+    color: #86868B;
+}
+
+.card {
+    background-color: #101010;
+    color: #86868B;
+}
+
+
+h1 {
+    color: #fff;
+  
+}
+
+h6, p{
+    color: #fff;
+}
+
+.btn {
+    margin-bottom: 10px;
+}

@@ -1,0 +1,29 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+  }
+
+body {
+    background-color: #000;
+    color: #86868B;
+}
+
+.card {
+    background-color: #101010;
+    color: #86868B;
+}
+
+h5, label {
+    color: #fff;
+}
+
+.form-control {
+    background-color: #000;
+    color: #86868B;
+    margin-bottom: 10px;
+}
+
+.btn {
+    margin-bottom: 10px;
+}

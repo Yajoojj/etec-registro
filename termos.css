@@ -1,0 +1,31 @@
+body {
+    background-color: #101010;
+    background-color: #101010;
+    color: #86868B;
+    padding: 30px;
+    font-family: Arial, sans-serif;
+    color: #fff;
+}
+
+.container {
+    max-width: 800px;
+}
+
+.card {
+    background-color: #000;
+    color: #86868B;
+}
+
+h1 {
+     color: #fff;
+}
+
+p {
+    margin-bottom: 15px;
+}
+
+.form-control {
+    background-color: #000;
+    color: #86868B;
+    margin-bottom: 10px;
+}
